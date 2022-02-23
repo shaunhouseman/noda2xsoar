@@ -80,7 +80,7 @@ EOF
       brand: ""
       id: $uuid
       iscommand: false
-      name: $taskName
+      name: "$taskName"
       type: title
       version: -1
     taskid: $uuid
